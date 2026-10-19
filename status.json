@@ -1,0 +1,50 @@
+{
+  "timestamp": "2026-10-19 23:14:02 UTC",
+  "results": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com",
+      "category": "Developer Tools",
+      "status": "Operational",
+      "code": 200,
+      "latency_ms": 1286.17,
+      "error": null
+    },
+    {
+      "name": "Google",
+      "url": "https://www.google.com",
+      "category": "Search & Web",
+      "status": "Operational",
+      "code": 200,
+      "latency_ms": 857.61,
+      "error": null
+    },
+    {
+      "name": "Cloudflare DNS",
+      "url": "https://1.1.1.1",
+      "category": "Infrastructure",
+      "status": "Operational",
+      "code": 200,
+      "latency_ms": 1948.47,
+      "error": null
+    },
+    {
+      "name": "Wikipedia",
+      "url": "https://www.wikipedia.org",
+      "category": "Content & Knowledge",
+      "status": "Operational",
+      "code": 200,
+      "latency_ms": 1188.66,
+      "error": null
+    },
+    {
+      "name": "Python.org",
+      "url": "https://www.python.org",
+      "category": "Software & Language",
+      "status": "Operational",
+      "code": 200,
+      "latency_ms": 1230.74,
+      "error": null
+    }
+  ]
+}
